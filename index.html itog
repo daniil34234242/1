@@ -1,12 +1,12 @@
 
 <html>
   <head>
-    <title>Лев Леонов</title>
+    <title>Халин Даниил</title>
     <link rel="stylesheet" href="style.css"/>
   </head>
   <body>
     <header>
-      <a class="link-header" href="leonov.html">Леонов Лев</a>
+      <a class="link-header" href="leonov.html">Халин Даниил</a>
     </header>
     <main>
       <section class="description">
