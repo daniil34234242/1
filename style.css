@@ -1,9 +1,10 @@
 body {
   font-family: sans-serif;
+  background-color: #00FA9A;
 }
 
 header {
-  background-color: #5ccccc;
+  background-color: #3CB371;
   padding: 40px 0px 40px 25px;
 }
 
@@ -15,8 +16,8 @@ header {
 }
 
 .link-header:hover {
-  background-image: linear-gradient(180deg, #7E57C2 0%, #FFFFFF 9.9%, #FFFFFF 88.54%, #2AB428 100%);
-  color: #F86A03;
+  background-image: linear-gradient(180deg, #7E57C2 0%, #008080 9.9%, #66CDAA 88.54%, #2AB428 100%);
+  color: #00FFFF;
   transition: 1.5s linear;
 }
 
@@ -56,7 +57,7 @@ nav {
 }
 
 .link-mysites {
-  color: #FFFFFF;
+  color: #00FA9A;
   font-size: 24px;
   text-decoration: none;
   position: absolute;
@@ -65,7 +66,7 @@ nav {
 }
 
 .link-mysites:hover {
-  color: #FD3104;
+  color: #FF0000;
   transition: 1.5s linear;
 }
 
@@ -79,14 +80,21 @@ nav {
   width: 40px;
 }
 
+
 .link-info:hover {
   color: #0000FF;
   transition: 1.5s linear;
 }
 
 p {
+  color: #008080;
   font-size: 24px;
   margin-left: 60px;
+}
+
+p:hover {
+   color: #000000;
+   transition: 1.5s linear; 
 }
 
 ul {
