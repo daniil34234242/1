@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+nav {
+    border-top: 3px solid royalblue;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid royalblue;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.head_img {
+    width: 700px;
+}
